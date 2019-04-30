@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="92b93724-11ad-4cdd-9afb-439749a2b912" name="pi" url="http://31.43.132.107">
+        <fileTransfer host="31.43.132.107" port="6060" rootFolder="/home/pi/Documents/Projects" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="6060" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
